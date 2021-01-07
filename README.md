@@ -7,7 +7,7 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 </h1>
 
 <p align="center">
-  <a href="#clipboard">Lista de ícones</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Lista">Lista de ícones</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
