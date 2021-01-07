@@ -7,17 +7,20 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 </h1>
 
 <p align="center">
-  <a href="#list">Lista de ícones</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clipboard">Lista de ícones</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
 <br>
 
-## :computer: Lista de ícones
+## :clipboard: Lista de ícones
 
-|                          Ícone                          | Referência | Classificação |
-| :-----------------------------------------------------: | :--------: | :-----------: |
-| <img alt="HTML5" title="HTML5" src="./base/html.png" /> |   HTML5    |     Base      |
+|                             Ícone                            |     Referência   | Classificação |
+| :----------------------------------------------------------: | :--------------: | :-----------: |
+| <img alt="PS" title="PS" src="./base/pixel_of_shields.png" />| Pixel of Shields |     Base      |
+| <img alt="HTML5" title="HTML5" src="./base/html.png" />      |      HTML5       |     Base      |
+| <img alt="CSS3" title="CSS3" src="./base/css.png" />         |       CSS3       |     Base      |
+| <img alt="JS" title="JS" src="./base/javascript.png" />      |    JavaScript    |     Base      |
 
 ## :memo: Licença
 
