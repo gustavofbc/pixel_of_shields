@@ -1,10 +1,10 @@
 # pixel_of_shields
+
 Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em geral feitas com pixel art.
 
 <h1 align="center">
-    <img alt="Pixel of Shields" title="Pixel of Shields" src="./html.png" />
+    <img alt="Pixel of Shields" title="Pixel of Shields" src="./pixel_of_shields.gif" />
 </h1>
-
 
 <p align="center">
   <a href="#list">Lista de ícones</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,10 +15,9 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 
 ## :computer: Lista de ícones
 
-|                       Ícone                      |   Referência  |   Classificação   |
-|:------------------------------------------------:|:-------------:|:-----------------:|
-|<img alt="HTML5" title="HTML5" src="./html.png" />|     HTML5     |       Base        |
-
+|                          Ícone                          | Referência | Classificação |
+| :-----------------------------------------------------: | :--------: | :-----------: |
+| <img alt="HTML5" title="HTML5" src="./base/html.png" /> |   HTML5    |     Base      |
 
 ## :memo: Licença
 
