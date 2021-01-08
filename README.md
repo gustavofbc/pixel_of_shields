@@ -34,6 +34,8 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="PHP" title="PHP" src="./base/php.png" width="75"/>                     |        Php       |     Base      |
 | <img alt="FIGMA" title="FIGMA" src="./base/figma.png" width="75"/>               |       Figma      |     Base      |
 | <img alt="JQUERY" title="JQUERY" src="./base/jquery.png" width="75"/>            |      Jquery      |     Base      |
+| <img alt="NPM" title="NPM" src="./base/npm.png" width="75"/>                     |       NPM        |     Base      |
+| <img alt="SASS" title="SASS" src="./base/sass.png" width="75"/>                  |       SASS       |     Base      |
 
 <hr>
 
@@ -55,6 +57,8 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="PHP" title="PHP" src="./dark/php_dark.png" width="75"/>                     |        Php       |     Dark      |
 | <img alt="FIGMA" title="FIGMA" src="./dark/figma_dark.png" width="75"/>               |       Figma      |     Dark      |
 | <img alt="JQUERY" title="JQUERY" src="./dark/jquery_dark.png" width="75"/>            |      Jquery      |     Base      |
+| <img alt="NPM" title="NPM" src="./dark/npm_dark.png" width="75"/>                     |       NPM        |     Base      |
+| <img alt="SASS" title="SASS" src="./dark/sass_dark.png" width="75"/>                  |       SASS       |     Base      |
 
 <hr>
 
