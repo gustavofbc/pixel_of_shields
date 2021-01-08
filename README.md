@@ -30,6 +30,7 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="ANGULAR" title="ANGULAR" src="./base/angular.png" width="75"/>         |      Angular     |     Base      |
 | <img alt="REACT" title="REACT" src="./base/react.png" width="75"/>               |       React      |     Base      |
 | <img alt="VUE" title="VUE" src="./base/vue.png" width="75"/>                     |        Vue       |     Base      |
+| <img alt="NODE" title="NODE" src="./base/node.png" width="75"/>                  |       Node       |     Base      |
 
 <hr>
 
@@ -37,6 +38,7 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 
 |                                        Ícone                                          |    Referência    | Classificação |
 | :-----------------------------------------------------------------------------------: | :--------------: | :-----------: |
+| <img alt="PS" title="PS" src="./dark/pixel_of_shields_dark.png" width="75"/>          | Pixel of Shields |     Dark      |
 | <img alt="HTML5" title="HTML5" src="./dark/html_dark.png" width="75"/>                |      HTML5       |     Dark      |
 | <img alt="CSS3" title="CSS3" src="./dark/css_dark.png" width="75"/>                   |       CSS3       |     Dark      |
 | <img alt="JAVASCRIPT" title="JAVASCRIPT" src="./dark/javascript_dark.png" width="75"/>|    JavaScript    |     Dark      |
@@ -46,6 +48,8 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="ANGULAR" title="ANGULAR" src="./dark/angular_dark.png" width="75"/>         |      Angular     |     Dark      |
 | <img alt="REACT" title="REACT" src="./dark/react_dark.png" width="75"/>               |       React      |     Dark      |
 | <img alt="VUE" title="VUE" src="./dark/vue_dark.png" width="75"/>                     |        Vue       |     Dark      |
+| <img alt="NODE" title="NODE" src="./dark/node_dark.png" width="75"/>                  |       Node       |     Dark      |
+
 
 ## :memo: Licença
 
