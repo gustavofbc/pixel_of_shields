@@ -15,17 +15,17 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 
 ## :clipboard: Lista de ícones
 
-|                                Ícone                                |    Referência    | Classificação |
-| :-----------------------------------------------------------------: | :--------------: | :-----------: |
-| <img alt="PS" title="PS" src="./base/pixel_of_shields.png" />       | Pixel of Shields |     Base      |
-| <img alt="HTML5" title="HTML5" src="./base/html.png" />             |      HTML5       |     Base      |
-| <img alt="CSS3" title="CSS3" src="./base/css.png" />                |       CSS3       |     Base      |
-| <img alt="JS" title="JS" src="./base/javascript.png" />             |    JavaScript    |     Base      |
-| <img alt="GIT" title="GIT" src="./base/git.png" />                  |        Git       |     Base      |
-| <img alt="BOOTSTRAP" title="BOOTSTRAP" src="./base/bootstrap.png" />|     Bootstrap    |     Base      |
-| <img alt="ANGULAR" title="ANGULAR" src="./base/angular.png" />      |      Angular     |     Base      |
-| <img alt="REACT" title="REACT" src="./base/react.png" />            |       React      |     Base      |
-| <img alt="VUE" title="VUE" src="./base/vue.png" />                  |        Vue       |     Base      |
+|                                     Ícone                                     |    Referência    | Classificação |
+| :---------------------------------------------------------------------------: | :--------------: | :-----------: |
+| <img alt="PS" title="PS" src="./base/pixel_of_shields.png" width="75"/>       | Pixel of Shields |     Base      |
+| <img alt="HTML5" title="HTML5" src="./base/html.png" width="75"/>             |      HTML5       |     Base      |
+| <img alt="CSS3" title="CSS3" src="./base/css.png" width="75"/>                |       CSS3       |     Base      |
+| <img alt="JS" title="JS" src="./base/javascript.png" width="75"/>             |    JavaScript    |     Base      |
+| <img alt="GIT" title="GIT" src="./base/git.png" width="75"/>                  |        Git       |     Base      |
+| <img alt="BOOTSTRAP" title="BOOTSTRAP" src="./base/bootstrap.png" width="75"/>|     Bootstrap    |     Base      |
+| <img alt="ANGULAR" title="ANGULAR" src="./base/angular.png" width="75"/>      |      Angular     |     Base      |
+| <img alt="REACT" title="REACT" src="./base/react.png" width="75"/>            |       React      |     Base      |
+| <img alt="VUE" title="VUE" src="./base/vue.png" width="75"/>                  |        Vue       |     Base      |
 
 ## :memo: Licença
 
