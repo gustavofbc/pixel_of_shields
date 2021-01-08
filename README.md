@@ -7,8 +7,8 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 </h1>
 
 <p align="center">
-  <a href="#memo-Base">Shields Base</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-Dark">Shields Dark</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clipboard-Base">Shields Base</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clipboard-Dark">Shields Dark</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -16,7 +16,8 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 
 ## :clipboard: Lista de ícones
 
-### :memo: Base
+### :clipboard: Base
+
 |                                     Ícone                                     |    Referência    | Classificação |
 | :---------------------------------------------------------------------------: | :--------------: | :-----------: |
 | <img alt="PS" title="PS" src="./base/pixel_of_shields.png" width="75"/>       | Pixel of Shields |     Base      |
@@ -29,7 +30,10 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="REACT" title="REACT" src="./base/react.png" width="75"/>            |       React      |     Base      |
 | <img alt="VUE" title="VUE" src="./base/vue.png" width="75"/>                  |        Vue       |     Base      |
 
-### :memo: Dark
+<hr>
+
+### :clipboard: Dark
+
 |                                     Ícone                                     |    Referência    | Classificação |
 | :---------------------------------------------------------------------------: | :--------------: | :-----------: |
 | <img alt="HTML5" title="HTML5" src="./dark/html_dark.png" width="75"/>        |      HTML5       |     Dark      |
