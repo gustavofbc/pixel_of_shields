@@ -34,11 +34,16 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 
 ### :clipboard: Dark
 
-|                                     Ícone                                     |    Referência    | Classificação |
-| :---------------------------------------------------------------------------: | :--------------: | :-----------: |
-| <img alt="HTML5" title="HTML5" src="./dark/html_dark.png" width="75"/>        |      HTML5       |     Dark      |
-| <img alt="CSS3" title="CSS3" src="./dark/css_dark.png" width="75"/>           |       CSS3       |     Dark      |
-| <img alt="JS" title="JS" src="./dark/javascript_dark.png" width="75"/>        |    JavaScript    |     Dark      |
+|                                        Ícone                                       |    Referência    | Classificação |
+| :--------------------------------------------------------------------------------: | :--------------: | :-----------: |
+| <img alt="HTML5" title="HTML5" src="./dark/html_dark.png" width="75"/>             |      HTML5       |     Dark      |
+| <img alt="CSS3" title="CSS3" src="./dark/css_dark.png" width="75"/>                |       CSS3       |     Dark      |
+| <img alt="JS" title="JS" src="./dark/javascript_dark.png" width="75"/>             |    JavaScript    |     Dark      |
+| <img alt="GIT" title="GIT" src="./dark/git_dark.png" width="75"/>                  |        Git       |     Dark      |
+| <img alt="BOOTSTRAP" title="BOOTSTRAP" src="./dark/bootstrap_dark.png" width="75"/>|     Bootstrap    |     Dark      |
+| <img alt="ANGULAR" title="ANGULAR" src="./dark/angular_dark.png" width="75"/>      |      Angular     |     Dark      |
+| <img alt="REACT" title="REACT" src="./dark/react_dark.png" width="75"/>            |       React      |     Dark      |
+| <img alt="VUE" title="VUE" src="./dark/vue_dark.png" width="75"/>                  |        Vue       |     Dark      |
 
 ## :memo: Licença
 
