@@ -32,7 +32,8 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="VUE" title="VUE" src="./base/vue.png" width="75"/>                     |        Vue       |     Base      |
 | <img alt="NODE" title="NODE" src="./base/node.png" width="75"/>                  |       Node       |     Base      |
 | <img alt="PHP" title="PHP" src="./base/php.png" width="75"/>                     |        Php       |     Base      |
-| <img alt="FIGMA" title="FIGMA" src="./base/figma.png" width="75"/>               |       Figma       |     Base      |
+| <img alt="FIGMA" title="FIGMA" src="./base/figma.png" width="75"/>               |       Figma      |     Base      |
+| <img alt="JQUERY" title="JQUERY" src="./base/jquery.png" width="75"/>            |      Jquery      |     Base      |
 
 <hr>
 
@@ -53,6 +54,9 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="NODE" title="NODE" src="./dark/node_dark.png" width="75"/>                  |       Node       |     Dark      |
 | <img alt="PHP" title="PHP" src="./dark/php_dark.png" width="75"/>                     |        Php       |     Dark      |
 | <img alt="FIGMA" title="FIGMA" src="./dark/figma_dark.png" width="75"/>               |       Figma      |     Dark      |
+| <img alt="JQUERY" title="JQUERY" src="./dark/jquery_dark.png" width="75"/>            |      Jquery      |     Base      |
+
+<hr>
 
 ## :memo: Licença
 
