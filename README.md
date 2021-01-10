@@ -37,6 +37,7 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="NPM" title="NPM" src="./base/npm.png" width="75"/>                     |        NPM       |     Base      |
 | <img alt="SASS" title="SASS" src="./base/sass.png" width="75"/>                  |       SASS       |     Base      |
 | <img alt="PYTHON" title="PYTHON" src="./base/python.png" width="75"/>            |      Python      |     Base      |
+| <img alt="JAVA" title="JAVA" src="./base/java.png" width="75"/>                  |      Java        |     Base      |
 
 <hr>
 
@@ -61,6 +62,7 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="NPM" title="NPM" src="./dark/npm_dark.png" width="75"/>                     |       NPM        |     Dark      |
 | <img alt="SASS" title="SASS" src="./dark/sass_dark.png" width="75"/>                  |       SASS       |     Dark      |
 | <img alt="PYTHON" title="PYTHON" src="./dark/python_dark.png" width="75"/>            |      Python      |     Dark      |
+| <img alt="JAVA" title="JAVA" src="./dark/java_dark.png" width="75"/>                  |      Java        |     Base      |
 
 <hr>
 
