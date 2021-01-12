@@ -38,6 +38,10 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="SASS" title="SASS" src="./base/sass.png" width="75"/>                  |       SASS       |     Base      |
 | <img alt="PYTHON" title="PYTHON" src="./base/python.png" width="75"/>            |      Python      |     Base      |
 | <img alt="JAVA" title="JAVA" src="./base/java.png" width="75"/>                  |      Java        |     Base      |
+| <img alt="FLUTTER" title="FLUTTER" src="./base/flutter.png" width="75"/>         |      Flutter     |     Base      |
+| <img alt="LESS" title="JAVA" src="./base/less.png" width="75"/>                  |       LESS       |     Base      |
+| <img alt="RUBY" title="RUBY" src="./base/ruby.png" width="75"/>                  |       Ruby       |     Base      |
+| <img alt="C#" title="C#" src="./base/c%23.png" width="75"/>                        |        C#        |     Base      |
 
 <hr>
 
@@ -62,7 +66,11 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="NPM" title="NPM" src="./dark/npm_dark.png" width="75"/>                     |       NPM        |     Dark      |
 | <img alt="SASS" title="SASS" src="./dark/sass_dark.png" width="75"/>                  |       SASS       |     Dark      |
 | <img alt="PYTHON" title="PYTHON" src="./dark/python_dark.png" width="75"/>            |      Python      |     Dark      |
-| <img alt="JAVA" title="JAVA" src="./dark/java_dark.png" width="75"/>                  |      Java        |     Base      |
+| <img alt="JAVA" title="JAVA" src="./dark/java_dark.png" width="75"/>                  |      Java        |     Dark      |
+| <img alt="FLUTTER" title="FLUTTER" src="./dark/flutter_dark.png" width="75"/>         |      Flutter     |     Dark      |
+| <img alt="LESS" title="JAVA" src="./dark/less_dark.png" width="75"/>                  |       LESS       |     Dark      |
+| <img alt="RUBY" title="RUBY" src="./dark/ruby_dark.png" width="75"/>                  |       Ruby       |     Dark      |
+| <img alt="C#" title="C#" src="./dark/c%23_dark.png" width="75"/>                        |        C#        |     Dark      |
 
 <hr>
 
