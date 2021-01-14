@@ -16,7 +16,6 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 <p align="center">
   <a href="#white_circle-Base">Shields Base</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#black_circle-Dark">Shields Dark</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <br>
