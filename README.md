@@ -1,9 +1,9 @@
-# pixel_of_shields
+# pixel_of_shields <img alt="Pixel of Shields" title="Pixel of Shields" src="./pixel_of_shields.gif" width="45"/>
 
 Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em geral feitas com pixel art.
 
 <h1 align="center">
-    <img alt="Pixel of Shields" title="Pixel of Shields" src="./pixel_of_shields.gif" />
+    <img alt="Pixel of Shields" title="Pixel of Shields" src="./shields.gif" />
 </h1>
 
 <p align="center">
@@ -41,7 +41,11 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="FLUTTER" title="FLUTTER" src="./base/flutter.png" width="75"/>         |      Flutter     |     Base      |
 | <img alt="LESS" title="JAVA" src="./base/less.png" width="75"/>                  |       LESS       |     Base      |
 | <img alt="RUBY" title="RUBY" src="./base/ruby.png" width="75"/>                  |       Ruby       |     Base      |
-| <img alt="C#" title="C#" src="./base/c%23.png" width="75"/>                        |        C#        |     Base      |
+| <img alt="C#" title="C#" src="./base/c%23.png" width="75"/>                      |        C#        |     Base      |
+| <img alt="C++" title="C++" src="./base/c%2B%2B.png" width="75"/>                 |        C++       |     Base      |
+| <img alt="GO" title="GO" src="./base/go.png" width="75"/>                        |        Go        |     Base      |
+| <img alt="KOTLIN" title="KOTLIN" src="./base/kotlin.png" width="75"/>            |      Kotlin      |     Base      |
+| <img alt="SWIFT" title="SWIFT" src="./base/swift.png" width="75"/>               |       Swift      |     Base      |
 
 <hr>
 
@@ -70,7 +74,11 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="FLUTTER" title="FLUTTER" src="./dark/flutter_dark.png" width="75"/>         |      Flutter     |     Dark      |
 | <img alt="LESS" title="JAVA" src="./dark/less_dark.png" width="75"/>                  |       LESS       |     Dark      |
 | <img alt="RUBY" title="RUBY" src="./dark/ruby_dark.png" width="75"/>                  |       Ruby       |     Dark      |
-| <img alt="C#" title="C#" src="./dark/c%23_dark.png" width="75"/>                        |        C#        |     Dark      |
+| <img alt="C#" title="C#" src="./dark/c%23_dark.png" width="75"/>                      |        C#        |     Dark      |
+| <img alt="C++" title="C++" src="./dark/c%2B%2B_dark.png" width="75"/>                 |        C++       |     Dark      |
+| <img alt="GO" title="GO" src="./dark/go_dark.png" width="75"/>                        |        Go        |     Dark      |
+| <img alt="KOTLIN" title="KOTLIN" src="./dark/kotlin_dark.png" width="75"/>            |      Kotlin      |     Dark      |
+| <img alt="SWIFT" title="SWIFT" src="./dark/swift_dark.png" width="75"/>               |       Swift      |     Dark      |
 
 <hr>
 
