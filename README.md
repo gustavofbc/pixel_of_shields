@@ -6,6 +6,13 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
     <img alt="Pixel of Shields" title="Pixel of Shields" src="./shields.gif" />
 </h1>
 
+<hr>
+<p>
+    <img alt="All Shields" title="All Shields" src="./all_shields.png" />
+<p>
+<hr>
+
+
 <p align="center">
   <a href="#clipboard-Base">Shields Base</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#clipboard-Dark">Shields Dark</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,7 +23,7 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 
 ## :clipboard: Lista de ícones
 
-### :clipboard: Base
+### :white_circle: Base
 
 |                                       Ícone                                      |    Referência    | Classificação |
 | :------------------------------------------------------------------------------: | :--------------: | :-----------: |
@@ -48,10 +55,17 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="KOTLIN" title="KOTLIN" src="./base/kotlin.png" width="75"/>            |      Kotlin      |     Base      |
 | <img alt="SWIFT" title="SWIFT" src="./base/swift.png" width="75"/>               |       Swift      |     Base      |
 | <img alt="FLASK" title="FLASK" src="./base/flask.png" width="75"/>               |       Flask      |     Base      |
+| <img alt="EMBER" title="EMBER" src="./base/ember.png" width="75"/>               |       Ember      |     Base      |
+| <img alt="SVELTE" title="SVELTE" src="./base/svelte.png" width="75"/>            |       Svelte     |     Base      |
+| <img alt="PREACT" title="PREACT" src="./base/preact.png" width="75"/>            |       Preact     |     Base      |
+| <img alt="ALPINE" title="ALPINE" src="./base/alpinejs.png" width="75"/>          |      Alpinejs    |     Base      |
+| <img alt="STIMULUS" title="STIMULUS" src="./base/stimulus.png" width="75"/>      |      Stimulus    |     Base      |
+| <img alt="LITELEMENT" title="LITELEMENT" src="./base/litElement.png" width="75"/>|     LitElement   |     Base      |
+| <img alt="METEOR" title="METEOR" src="./base/meteor.png" width="75"/>            |       METEOR     |     Base      |
 
 <hr>
 
-### :clipboard: Dark
+### :black_circle: Dark
 
 |                                        Ícone                                          |    Referência    | Classificação |
 | :-----------------------------------------------------------------------------------: | :--------------: | :-----------: |
@@ -83,6 +97,13 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="KOTLIN" title="KOTLIN" src="./dark/kotlin_dark.png" width="75"/>            |      Kotlin      |     Dark      |
 | <img alt="SWIFT" title="SWIFT" src="./dark/swift_dark.png" width="75"/>               |       Swift      |     Dark      |
 | <img alt="FLASK" title="FLASK" src="./dark/flask_dark.png" width="75"/>               |       Flask      |     Dark      |
+| <img alt="EMBER" title="EMBER" src="./dark/ember_dark.png" width="75"/>               |       Ember      |     Dark      |
+| <img alt="SVELTE" title="SVELTE" src="./dark/svelte_dark.png" width="75"/>            |       Svelte     |     Dark      |
+| <img alt="PREACT" title="PREACT" src="./dark/preact_dark.png" width="75"/>            |       Preact     |     Dark      |
+| <img alt="ALPINE" title="ALPINE" src="./dark/alpinejs_dark.png" width="75"/>          |      Alpinejs    |     Dark      |
+| <img alt="STIMULUS" title="STIMULUS" src="./dark/stimulus_dark.png" width="75"/>      |      Stimulus    |     Dark      |
+| <img alt="LITELEMENT" title="LITELEMENT" src="./dark/litElement_dark.png" width="75"/>|     LitElement   |     Dark      |
+| <img alt="METEOR" title="METEOR" src="./dark/meteor_dark.png" width="75"/>            |       METEOR     |     Dark      |
 
 <hr>
 
