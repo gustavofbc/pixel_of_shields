@@ -28,6 +28,7 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="GIT" title="GIT" src="./base/git.png" width="75"/>                     |        Git       |     Base      |
 | <img alt="BOOTSTRAP" title="BOOTSTRAP" src="./base/bootstrap.png" width="75"/>   |     Bootstrap    |     Base      |
 | <img alt="ANGULAR" title="ANGULAR" src="./base/angular.png" width="75"/>         |      Angular     |     Base      |
+| <img alt="ANGULARJS" title="ANGULARJS" src="./base/angularjs.png" width="75"/>   |     AngularJS    |     Base      |
 | <img alt="REACT" title="REACT" src="./base/react.png" width="75"/>               |       React      |     Base      |
 | <img alt="VUE" title="VUE" src="./base/vue.png" width="75"/>                     |        Vue       |     Base      |
 | <img alt="NODE" title="NODE" src="./base/node.png" width="75"/>                  |       Node       |     Base      |
@@ -46,6 +47,7 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="GO" title="GO" src="./base/go.png" width="75"/>                        |        Go        |     Base      |
 | <img alt="KOTLIN" title="KOTLIN" src="./base/kotlin.png" width="75"/>            |      Kotlin      |     Base      |
 | <img alt="SWIFT" title="SWIFT" src="./base/swift.png" width="75"/>               |       Swift      |     Base      |
+| <img alt="FLASK" title="FLASK" src="./base/flask.png" width="75"/>               |       Flask      |     Base      |
 
 <hr>
 
@@ -61,6 +63,7 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="GIT" title="GIT" src="./dark/git_dark.png" width="75"/>                     |        Git       |     Dark      |
 | <img alt="BOOTSTRAP" title="BOOTSTRAP" src="./dark/bootstrap_dark.png" width="75"/>   |     Bootstrap    |     Dark      |
 | <img alt="ANGULAR" title="ANGULAR" src="./dark/angular_dark.png" width="75"/>         |      Angular     |     Dark      |
+| <img alt="ANGULARJS" title="ANGULARJS" src="./dark/angularjs_dark.png" width="75"/>   |     AngularJS    |     Dark      |
 | <img alt="REACT" title="REACT" src="./dark/react_dark.png" width="75"/>               |       React      |     Dark      |
 | <img alt="VUE" title="VUE" src="./dark/vue_dark.png" width="75"/>                     |        Vue       |     Dark      |
 | <img alt="NODE" title="NODE" src="./dark/node_dark.png" width="75"/>                  |       Node       |     Dark      |
@@ -79,6 +82,7 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="GO" title="GO" src="./dark/go_dark.png" width="75"/>                        |        Go        |     Dark      |
 | <img alt="KOTLIN" title="KOTLIN" src="./dark/kotlin_dark.png" width="75"/>            |      Kotlin      |     Dark      |
 | <img alt="SWIFT" title="SWIFT" src="./dark/swift_dark.png" width="75"/>               |       Swift      |     Dark      |
+| <img alt="FLASK" title="FLASK" src="./dark/flask_dark.png" width="75"/>               |       Flask      |     Dark      |
 
 <hr>
 
