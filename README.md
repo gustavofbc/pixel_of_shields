@@ -103,9 +103,3 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="STIMULUS" title="STIMULUS" src="./dark/stimulus_dark.png" width="75"/>      |      Stimulus    |     Dark      |
 | <img alt="LITELEMENT" title="LITELEMENT" src="./dark/litElement_dark.png" width="75"/>|     LitElement   |     Dark      |
 | <img alt="METEOR" title="METEOR" src="./dark/meteor_dark.png" width="75"/>            |       METEOR     |     Dark      |
-
-<hr>
-
-## :memo: Licença
-
-Esse projeto está sob a licença Apache. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
