@@ -76,6 +76,9 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="SKETCH" title="SKETCH" src="./base/sketch.png" width="75"/>                     |       Sketch     |     Base      |
 | <img alt="INVISION" title="INVISION" src="./base/invision.png" width="75"/>               |      Invision    |     Base      |
 | <img alt="PROTOPIE" title="PROTOPIE" src="./base/protopie.png" width="75"/>               |      ProtoPie    |     Base      |
+| <img alt="NEXTJS" title="NEXTJS" src="./base/next_js.png" width="75"/>                    |      Next.js     |     Base      |
+| <img alt="NUXTJS" title="NUXTJS" src="./base/nuxt_js.png" width="75"/>                    |      Nuxt.js     |     Base      |
+| <img alt="QUASAR" title="QUASAR" src="./base/quasar.png" width="75"/>                     |      Quasar      |     Base      |
 
 <hr>
 
@@ -127,9 +130,12 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="TAILWIND" title="TAILWIND" src="./dark/tailwind_dark.png" width="75"/>               |      Tailwind    |     Dark      |
 | <img alt="UI KIT" title="UI KIT" src="./dark/ui_kit_dark.png" width="75"/>                     |       UI Kit     |     Dark      |
 | <img alt="BULMA" title="BULMA" src="./dark/bulma_dark.png" width="75"/>                        |       Bulma      |     Dark      |
-| <img alt="PHOTOSHOP" title="PHOTOSHOP" src="./dark/adobe_photoshop_dark.png" width="75"/>      |     Photoshop    |     Base      |
-| <img alt="ILLUSTRATOR" title="ILLUSTRATOR" src="./dark/adobe_illustrator_dark.png" width="75"/>|    Illustrator   |     Base      |
-| <img alt="XD" title="XD" src="./dark/adobe_xd_dark.png" width="75"/>                           |         XD       |     Base      |
-| <img alt="SKETCH" title="SKETCH" src="./dark/sketch_dark.png" width="75"/>                     |       Sketch     |     Base      |
-| <img alt="INVISION" title="INVISION" src="./dark/invision_dark.png" width="75"/>               |      Invision    |     Base      |
-| <img alt="PROTOPIE" title="PROTOPIE" src="./dark/protopie_dark.png" width="75"/>               |      ProtoPie    |     Base      |
+| <img alt="PHOTOSHOP" title="PHOTOSHOP" src="./dark/adobe_photoshop_dark.png" width="75"/>      |     Photoshop    |     Dark      |
+| <img alt="ILLUSTRATOR" title="ILLUSTRATOR" src="./dark/adobe_illustrator_dark.png" width="75"/>|    Illustrator   |     Dark      |
+| <img alt="XD" title="XD" src="./dark/adobe_xd_dark.png" width="75"/>                           |         XD       |     Dark      |
+| <img alt="SKETCH" title="SKETCH" src="./dark/sketch_dark.png" width="75"/>                     |       Sketch     |     Dark      |
+| <img alt="INVISION" title="INVISION" src="./dark/invision_dark.png" width="75"/>               |      Invision    |     Dark      |
+| <img alt="PROTOPIE" title="PROTOPIE" src="./dark/protopie_dark.png" width="75"/>               |      ProtoPie    |     Dark      |
+| <img alt="NEXTJS" title="NEXTJS" src="./dark/next_js_dark.png" width="75"/>                    |      Next.js     |     Dark      |
+| <img alt="NUXTJS" title="NUXTJS" src="./dark/nuxt_js_dark.png" width="75"/>                    |      Nuxt.js     |     Dark      |
+| <img alt="QUASAR" title="QUASAR" src="./dark/quasar_dark.png" width="75"/>                     |      Quasar      |     Dark      |
