@@ -60,7 +60,7 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="PREACT" title="PREACT" src="./base/preact.png" width="75"/>                     |       Preact     |     Base      |
 | <img alt="ALPINE" title="ALPINE" src="./base/alpinejs.png" width="75"/>                   |      Alpinejs    |     Base      |
 | <img alt="STIMULUS" title="STIMULUS" src="./base/stimulus.png" width="75"/>               |      Stimulus    |     Base      |
-| <img alt="LITELEMENT" title="LITELEMENT" src="./base/litElement.png" width="75"/>         |     LitElement   |     Base      |
+| <img alt="POLYMER" title="POLYMER" src="./base/polymer.png" width="75"/>                  |       Polymer    |     Base      |
 | <img alt="METEOR" title="METEOR" src="./base/meteor.png" width="75"/>                     |       METEOR     |     Base      |
 | <img alt="AURELIA" title="AURELIA" src="./base/aurelia.png" width="75"/>                  |       Aurelia    |     Base      |
 | <img alt="XAMARIN" title="XAMARIN" src="./base/xamarin.png" width="75"/>                  |       Xamarin    |     Base      |
@@ -120,7 +120,7 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="PREACT" title="PREACT" src="./dark/preact_dark.png" width="75"/>                     |       Preact     |     Dark      |
 | <img alt="ALPINE" title="ALPINE" src="./dark/alpinejs_dark.png" width="75"/>                   |      Alpinejs    |     Dark      |
 | <img alt="STIMULUS" title="STIMULUS" src="./dark/stimulus_dark.png" width="75"/>               |      Stimulus    |     Dark      |
-| <img alt="LITELEMENT" title="LITELEMENT" src="./dark/litElement_dark.png" width="75"/>         |     LitElement   |     Dark      |
+| <img alt="POLYMER" title="POLYMER" src="./dark/polymer_dark.png" width="75"/>                  |       Polymer    |     Dark      |
 | <img alt="METEOR" title="METEOR" src="./dark/meteor_dark.png" width="75"/>                     |       METEOR     |     Dark      |
 | <img alt="AURELIA" title="AURELIA" src="./dark/aurelia_dark.png" width="75"/>                  |       Aurelia    |     Dark      |
 | <img alt="XAMARIN" title="XAMARIN" src="./dark/xamarin_dark.png" width="75"/>                  |       Xamarin    |     Dark      |
