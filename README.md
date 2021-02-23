@@ -79,6 +79,8 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="NEXTJS" title="NEXTJS" src="./base/next_js.png" width="75"/>                    |      Next.js     |     Base      |
 | <img alt="NUXTJS" title="NUXTJS" src="./base/nuxt_js.png" width="75"/>                    |      Nuxt.js     |     Base      |
 | <img alt="QUASAR" title="QUASAR" src="./base/quasar.png" width="75"/>                     |      Quasar      |     Base      |
+| <img alt="RUBY ON RAILS" title="RUBY ON RAILS" src="./base/ruby_on_rails.png" width="75"/>|   Ruby on Rails  |     Base      |
+| <img alt="MITHRIL" title="MITHRIL" src="./base/mithril.png" width="75"/>                  |      Mithril     |     Base      |
 
 <hr>
 
@@ -139,3 +141,7 @@ Repositório de escudos de frameworks, linguagens, plataformas e tecnologias em 
 | <img alt="NEXTJS" title="NEXTJS" src="./dark/next_js_dark.png" width="75"/>                    |      Next.js     |     Dark      |
 | <img alt="NUXTJS" title="NUXTJS" src="./dark/nuxt_js_dark.png" width="75"/>                    |      Nuxt.js     |     Dark      |
 | <img alt="QUASAR" title="QUASAR" src="./dark/quasar_dark.png" width="75"/>                     |      Quasar      |     Dark      |
+| <img alt="RUBY ON RAILS" title="RUBY ON RAILS" src="./dark/ruby_on_rails_dark.png" width="75"/>|   Ruby on Rails  |     Dark      |
+| <img alt="MITHRIL" title="MITHRIL" src="./dark/mithril_dark.png" width="75"/>                  |      Mithril     |     Dark      |
+
+
